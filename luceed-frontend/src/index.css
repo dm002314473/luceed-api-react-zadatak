@@ -1,0 +1,42 @@
+input {
+  padding: 10px;
+  margin: 5px 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  width: 200px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #a8dceb;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+button:hover {
+  background-color: #71c8e0;
+}
+
+h1 {
+  font-size: 26px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background-color: #e6e6e6d8;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 10px;
+  border: 1px solid #ddd;
+}
+
+p {
+  color: red;
+  font-weight: bold;
+}
